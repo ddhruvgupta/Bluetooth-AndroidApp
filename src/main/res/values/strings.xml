@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Prof Search</string>
+    <string name="press_me">Press Me</string>
+    <string name="helloWorld">Hello World!</string>
+    <string name="name">NAME</string>
+</resources>
